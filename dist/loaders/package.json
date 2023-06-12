@@ -29,7 +29,7 @@
     "license": "Apache-2.0",
     "dependencies": {
         "babylonjs-gltf2interface": "4.2.0",
-        "babylonjs": "4.2.0"
+        "babylonjs": "4.2.2"
     },
     "engines": {
         "node": "*"
